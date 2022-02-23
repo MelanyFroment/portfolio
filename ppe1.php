@@ -54,7 +54,7 @@
             <section class="conatiner">
                 <div class="row">
                     <div class="col-sm-6">
-                        <img src="./assets/img/PPE1.png" alt="">
+                        <img src="./assets/img/PPE1.png" alt="" class="img-fluid">
                     </div>
                     <div class="col-sm-6 section-title">
                         <h2>PPE : Frais de déplacement</h2>
