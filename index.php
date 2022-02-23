@@ -261,7 +261,7 @@
 							<img src="assets/img/PPE1.png" class="img-fluid" alt="">
 							<div class="portfolio-links">
 								<a href="assets/img/PPE1.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="PPE1 : Php My Admin"><i class="bx bx-plus"></i></a>
-								<a href="http://localhost/BTS-2021-2022/ppe1/" title="More Details"><i class="bx bx-link"></i></a>
+								<a href="ppe1.php" title="More Details"><i class="bx bx-link"></i></a>
 							</div>
 						</div>
 					</div>
