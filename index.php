@@ -569,8 +569,8 @@
 					<div class="section-title mt-5">
 						<h2>Tableau de synthése</h2> 
 					</div>
-					<embed src="./assets/img/Tableau-synthese.pdf" width=100% height=100% type='application/pdf'/>
-				</div> 
+					<embed src="./assets/img/Tableau-synthese.pdf" width=1100 height=500 type='application/pdf'/>
+				</div>
 				
 				
 				
