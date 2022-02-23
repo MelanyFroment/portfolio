@@ -54,12 +54,12 @@
             <section class="conatiner">
                 <div class="row">
                     <div class="col-sm-6">
-                        <img src="./assets/img/PPE1.png" alt="" class="img-fluid">
+                        <img src="./assets/img/projet_ppe2.png" alt="" class="img-fluid">
                     </div>
-                    <div class="col-sm-6 section-title">
+                    <div class="col-sm-6 section-title"> 
                         <h2>PPE : Maison des Ligues de Lorraine</h2>
                         <p>
-                            Projet créé en HTML, CSS, PHP.<br/>
+                            Projet créé en HTML, CSS, symfony, Git, Framework : Bootstrap version 5.1.<br/> 
                             Ce projet a pour mission de fournir des espaces et des services aux différentes 
                             ligues sportives régionales et à d’autres structures hébergées.<br/>
                             La ligue régionale de basket de Lorraine, veut alimenter les résultats de leur 
