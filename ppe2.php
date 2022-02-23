@@ -37,7 +37,7 @@
 				</div>
 				<nav id="navbar" class="nav-menu navbar">
 					<ul>
-						<li><a href="index.php" class="nav-link scrollto active"><i class="bx bx-home"></i> <span>Retour accueil</span></a></li>
+						<li><a href="index.php#portfolio" class="nav-link scrollto active"><i class="bx bx-home"></i> <span>Retour accueil</span></a></li>
 					</ul>
 				</nav>
 			</div>
