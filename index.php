@@ -266,6 +266,16 @@
 						</div>
 					</div>
 
+					<div class="col-lg-4 col-md-6 portfolio-item filter-web">
+						<div class="portfolio-wrap">
+							<img src="assets/img/projet_ppe2.png" class="img-fluid" alt="">
+							<div class="portfolio-links">
+								<a href="assets/img/projet_ppe2.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="PPE2 : Php Orienté Objet"><i class="bx bx-plus"></i></a>
+								<a href="ppe2.php" title="More Details"><i class="bx bx-link"></i></a>
+							</div>
+						</div>
+					</div>
+
 					<div class="col-lg-4 col-md-6 portfolio-item filter-card">
 						<div class="portfolio-wrap">
 							<img src="./assets/img/combat.png" class="img-fluid" alt="">
