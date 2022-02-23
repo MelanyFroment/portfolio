@@ -96,50 +96,6 @@
 				<div class="section-title">
 					<h2>Langage utilisé et niveaux acquis</h2>
 				</div>
-				<!-- <div class="row skills-content"> -->
-					<!-- <div class="col-lg-6" data-aos="fade-up"> -->
-						<!-- <div class="progress"> -->
-							<!-- <span class="skill">HTML <i class="val">100%</i></span> -->
-							<!-- <div class="progress-bar-wrap"> -->
-								<!-- <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div> -->
-							<!-- </div> -->
-						<!-- </div> -->
-						<!-- <div class="progress"> -->
-							<!-- <span class="skill">CSS <i class="val">90%</i></span> -->
-							<!-- <div class="progress-bar-wrap"> -->
-								<!-- <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div> -->
-							<!-- </div> -->
-						<!-- </div> -->
-						<!-- <div class="progress"> -->
-							<!-- <span class="skill">JavaScript <i class="val">75%</i></span> -->
-							<!-- <div class="progress-bar-wrap"> -->
-								<!-- <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div> -->
-							<!-- </div> -->
-						<!-- </div> -->
-					<!-- </div> -->
-					<!-- <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100"> -->
-						<!-- <div class="progress"> -->
-							<!-- <span class="skill">PHP <i class="val">80%</i></span> -->
-							<!-- <div class="progress-bar-wrap"> -->
-								<!-- <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div> -->
-							<!-- </div> -->
-						<!-- </div> -->
-						<!-- <div class="progress"> -->
-							<!-- <span class="skill">WordPress/CMS <i class="val">90%</i></span> -->
-							<!-- <div class="progress-bar-wrap"> -->
-								<!-- <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div> -->
-							<!-- </div> -->
-						<!-- </div> -->
-						<!-- <div class="progress"> -->
-							<!-- <span class="skill">Photoshop <i class="val">55%</i></span> -->
-							<!-- <div class="progress-bar-wrap"> -->
-								<!-- <div class="progress-bar" role="progressbar" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100"></div> -->
-							<!-- </div> -->
-						<!-- </div> -->
-					<!-- </div> -->
-				<!-- </div> -->
-				<!-- Button trigger modal -->
-				
 				<h5 class="mb-5">Vous pouvez trouvez ci-dessous, les langage vue, et pratiqué lors de mes 2 années de BTS SIO :</h5>
 				<div class="container">
 					<div class="row">
@@ -161,7 +117,6 @@
 												<ul>
 													<li>GIT</li>
 													<li>PHP OBJET</li> 
-													<li>PHP MYSQL</li> 
 													<li>JAVASCRIPT</li> 
 													<li>JQUERY</li> 
 													<li>SQL</li> 
@@ -313,15 +268,15 @@
 
 					<div class="col-lg-4 col-md-6 portfolio-item filter-card">
 						<div class="portfolio-wrap">
-							<img src="assets/img/combat.png" class="img-fluid" alt="">
+							<img src="./assets/img/combat.png" class="img-fluid" alt="">
 							<div class="portfolio-links">
 								<a href="assets/img/combat.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
-								<a href="http://localhost/BTS-2021-2022/combats3/" title="More Details"><i class="bx bx-link"></i></a>
+								<a href="jeux_combat.php" title="More Details"><i class="bx bx-link"></i></a>
 							</div>
-						</div>
+						</div> 
 					</div>
 
-					<div class="col-lg-4 col-md-6 portfolio-item filter-app">
+					<!-- <div class="col-lg-4 col-md-6 portfolio-item filter-app">
 						<div class="portfolio-wrap">
 							<img src="assets/img/crypter.png" class="img-fluid" alt="">
 							<div class="portfolio-links">
@@ -329,7 +284,7 @@
 								<a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
 							</div>
 						</div>
-					</div>
+					</div> -->
 
 					<div class="col-lg-4 col-md-6 portfolio-item filter-card">
 						<div class="portfolio-wrap">
@@ -346,16 +301,6 @@
 							<img src="assets/img/portfolio/portfolio-5.jpg" class="img-fluid" alt="">
 							<div class="portfolio-links">
 								<a href="assets/img/portfolio/portfolio-5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 2"><i class="bx bx-plus"></i></a>
-								<a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-							</div>
-						</div>
-					</div>
-
-					<div class="col-lg-4 col-md-6 portfolio-item filter-app">
-						<div class="portfolio-wrap">
-							<img src="assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt="">
-							<div class="portfolio-links">
-								<a href="assets/img/portfolio/portfolio-6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 3"><i class="bx bx-plus"></i></a>
 								<a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
 							</div>
 						</div>
@@ -635,5 +580,4 @@
 	  <script src="assets/js/main.js"></script>
 
 	</body>
-
 </html>
