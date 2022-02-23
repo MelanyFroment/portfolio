@@ -59,9 +59,6 @@
 			<div class="container">
 				<div class="section-title">
 					<h2>À propos</h2>
-					<!-- <p> -->
-						<!-- Je m'appelle Mélany Froment, je suis né le 15/11/2000 et je suis en BTS SIO (Services Informatiques aux Organisations) option SLAM (Solutions Logicielles et Applications Métiers) à l'UFIP a Nice. -->
-					<!-- </p> -->
 				</div>
 				<div class="row">
 					<div class="col-lg-4" data-aos="fade-right">
@@ -87,10 +84,9 @@
 								</ul>
 							</div>
 						</div>
-						<a href="#" class="btn btn-primary btn-sm" tabindex="-1" role="button" aria-disabled="true">Voir CV</a>
-						<a href="#" class="btn btn-primary btn-sm" tabindex="-1" role="button" aria-disabled="true">Tableau de synthése</a>
-
-					</div>
+						<a href="./assets/img/Curriculum vitæ.pdf" class="btn btn-primary btn-sm" tabindex="-1" role="button" aria-disabled="true">Voir CV</a>
+						<a href="./assets/img/Tableau-synthese.pdf" class="btn btn-primary btn-sm" tabindex="-1" role="button" aria-disabled="true">Tableau de synthése</a>
+					</div>  
 				</div>
 			</div>
 		</section>
