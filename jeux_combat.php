@@ -81,8 +81,8 @@
                             </button>
                         </div>
                     </div>
-                    <div class="col-sm-6">
-                        <h1>Projet encadré : Jeux de Combat</h1>
+                    <div class="col-sm-6 section-title">
+                        <h2>Projet encadré : Jeux de Combat</h2>
                         <p>
                             Jeu créé en PHP Orienté Objet.<br/>
                             Ce jeu de combat à pour but de chosir, supprimer ou créer un personnage, et d'en frapper un autre. <br/>
