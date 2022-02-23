@@ -78,6 +78,16 @@
                     </div>
                 </div>
             </section>
+            <section class="conatiner">
+                <div class="row">
+                    <h1>Projet encadré : Jeux de Combat</h1>
+                    <p>
+                        Jeu créé en PHP Orienté Objet.<br/>
+                        Ce jeu de combat à pour but de chosir, supprimer ou créer un personnage, et d'en frapper un autre. <br/>
+                        Cela rapport des point et a un certains nombre de point celui-ci gagne d'un niveau.
+                    </p>
+                </div>
+            </section>
         </main>
         <!-- ======= Footer ======= -->
         <footer id="footer">
