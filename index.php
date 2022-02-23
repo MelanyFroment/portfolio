@@ -27,7 +27,7 @@
 		<i class="bi bi-list mobile-nav-toggle d-xl-none"></i>
 		<header id="header">
 			<div class="d-flex flex-column">
-				<div class="profile">
+				<div class="profile"> 
 					<img src="assets/img/photo_princ.jpg" alt="" class="img-fluid rounded-circle ">
 					<h1 class="text-light"><a href="index.html">Mélany Froment</a></h1>
 					<div class="social-links mt-3 text-center">
@@ -50,7 +50,7 @@
 	<section id="hero" class="d-flex flex-column justify-content-center align-items-center">
 		<div class="hero-container" data-aos="fade-in">
 			<h1>Bienvenu sur mon <br/> Portfolio</h1>
-			<p>Je m'appelle <span class="typed" data-typed-items="Mélany Froment"></span></p>
+			<p>Je m'appelle <span class="typed" data-typed-items="Mélany Froment"></span></p> 
 		</div>
 	</section>
 
@@ -569,8 +569,8 @@
 					<div class="section-title mt-5">
 						<h2>Tableau de synthése</h2> 
 					</div>
-					<embed src="file:///C:/Users/melan/OneDrive/Documents/BTS/2021-2022/SLAM/Portfolio/iPortfolio/www/assets/img/Tableau-synthese.pdf" width=1100 height=500 type='application/pdf'/>
-				</div>
+					<embed src="./assets/img/Tableau-synthese.pdf" width=1100 height=500 type='application/pdf'/>
+				</div> 
 				
 				
 				
@@ -677,7 +677,7 @@
 	  <footer id="footer">
 		<div class="container">
 		  <div class="copyright">
-			&copy; Copyright <strong><span>iPortfolio</span></strong>
+			&copy; Copyright Mélany Froment</strong>
 		  </div>
 		  <!-- <div class="credits"> -->
 			<!-- Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a> -->
