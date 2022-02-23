@@ -415,7 +415,7 @@
 						Après plus de <b>trois ans</b> de développement,<b> Bootstrap 5</b> est officiellement disponible. 
 						Il <b>rompt</b> effectivement les liens avec la <b>bibliothèque jQuery pour du pur JavaScript.</b>
 						Les autres nouveautés de cette version incluent un <b>nouveau logo, un nouveau composant offcanvas, nouveau composant accordion,
-						nouveaux composants forms et mise à jour, prise en charge de RTL, nouvelle API d'utilitaires etc...</b>
+						nouveaux composants forms et mise à jour, nouvelle API d'utilitaires etc...</b>
 					</p>
 				</div>
 
@@ -457,7 +457,7 @@
 						<ul>
 							<li class="fw-bolder"><i class="bi bi-flower2"></i> Composant offcanvas</li>
 						</ul>
-						Basé sur les éléments fondamentaux des modals et les partageant, le nouveau composant offcanvas est doté d'une toile de fond, d'un défilement du corps et d'un placement configurables. Les composants offcanvas peuvent être placés en haut, à droite, en bas ou à gauche de la fenêtre d'affichage. 
+						Basé sur les éléments fondamentaux des modals, le nouveau composant offcanvas est doté d'une toile de fond, d'un défilement du corps et d'un placement configurables. Les composants offcanvas peuvent être placés en haut, à droite, en bas ou à gauche de la fenêtre d'affichage. 
 					</p>
 				</div>
 				<div data-aos="fade-up">
@@ -475,7 +475,7 @@
 						</ul>
 						Regroupement, dans la documentation, de tous les styles de formulaires dans une nouvelle section consacrée aux formulaires et ils ont redessiné tous les contrôles de formulaires.
 					<br/><br/>
-						<b>PS:</b> Dans la v4, elle a introduit une suite étendue de contrôles de formulaires personnalisés, notamment contrôles, radios, interrupteurs, fichiers, etc., mais ceux-ci s'ajoutaient aux valeurs par défaut fournies par chaque navigateur. Avec la v5, l'équipe a opté pour une personnalisation totale.
+						<b>PS:</b> Dans la version 4, elle a introduit une suite étendue de contrôles de formulaires personnalisés, notamment contrôles, radios, interrupteurs, fichiers, etc., mais ceux-ci s'ajoutaient aux valeurs par défaut fournies par chaque navigateur. Avec la version 5, l'équipe a opté pour une personnalisation totale.
 					</p>
 				</div>
 
@@ -500,15 +500,7 @@
 						<ul>
 							<li class="fw-bolder"><i class="bi bi-flower2"></i> Champ pour le choix des fichiers</li>
 						</ul>
-						Abandonnons de la classe personnalisée .form-file pour des styles supplémentaires sur la classe .form-control.
-					</p> 
-				</div>
-				<div data-aos="fade-up">
-					<p>
-						<ul>
-							<li class="fw-bolder"><i class="bi bi-flower2"></i> Prise en charge de RTL</li>
-						</ul>
-						Ajout du support de RTL (Left-To-Right) à Bootstrap 5. 
+						Abandons de la classe personnalisée .form-file pour des styles supplémentaires sur la classe .form-control.
 					</p> 
 				</div>
 				<div data-aos="fade-up">
@@ -518,7 +510,7 @@
 						</ul>
 						Toute nouvelle API d'utilitaires dans Bootstrap 5 comme principal moyen d'étendre les classes d'utilitaires par défaut de Bootstrap. Générez et personnalisez facilement les utilitaires avec la prise en charge des noms de classe personnalisés, la prise en charge de la génération de classes basées sur l'état comme :hover, les versions imprimées, etc...
 					<br/><br/>
-						<b>PS:</b> Dans la v4, elle y est parvenue avec les classes globales $enable-*, et elle a poursuivi ses efforts dans la v5. Mais avec une approche basée sur l'API, elle a créé un langage et une syntaxe dans Sass pour vous permettre de créer vos propres utilitaires à la volée tout en étant capable de modifier ou de supprimer ceux qu'elle fournit.
+						<b>PS:</b> Dans la version 4, elle y est parvenue avec les classes globales $enable-*, et elle a poursuivi ses efforts dans la version 5. Mais avec une approche basée sur l'API, elle a créé un langage et une syntaxe dans Sass pour vous permettre de créer vos propres utilitaires à la volée tout en étant capable de modifier ou de supprimer ceux qu'elle fournit.
 					</p> 
 				</div>
 				<div data-aos="fade-up">
@@ -543,7 +535,7 @@
 						<ul>
 							<li class="fw-bolder"><i class="bi bi-flower2"></i> Dart Sass</li>
 						</ul>
-						L'équipe a annoncé être passée à Dart Sass, LibSass étant déprécié
+						L'équipe a annoncé être passée à Dart Sass, LibSass étant peu aprécié
 					</p> 
 				</div>
 				<div data-aos="fade-up">
@@ -558,7 +550,6 @@
 								<li>Suppression de Microsoft Edge Legacy ;</li>
 								<li>Suppression d'Internet Explorer 10 et 11 </li>
 								<li>Suppression de Firefox < 60 </li>
-								<li>Renommage des utilitaires font-weight en .fw</li>
 								<li>Abandon de Safari < 10 </li> 
 								<li>Abandon de iOS Safari < 10 </li>
 								<li>Abandon de Chrome < 60 </li>
@@ -610,34 +601,12 @@
 							</div>
 						</div>
 					</div>
-					<!-- <div class="col-lg-7 mt-5 mt-lg-0 d-flex align-items-stretch">
-						<form action="forms/contact.php" method="post" role="form" class="php-email-form">
-							<div class="row">
-								<div class="form-group col-md-6">
-									<label for="name">Nom</label>
-									<input type="text" name="name" class="form-control" id="name" required>
-								</div>
-								<div class="form-group col-md-6">
-									<label for="name">Prénom</label>
-									<input type="email" class="form-control" name="email" id="email" required>
-								</div>
-							</div>
-							<div class="form-group">
-								<label for="name">Sujet</label>
-								<input type="text" class="form-control" name="subject" id="subject" required>
-							</div>
-							<div class="form-group">
-								<label for="name">Message</label>
-								<textarea class="form-control" name="message" rows="10" required></textarea>
-							</div>
-							<div class="my-3">
-								<div class="loading">Chargement..</div>
-								<div class="error-message"></div>
-								<div class="sent-message">Votre message a bien été envoyé, Merci beaucoup !</div>
-							</div>
-							<div class="text-center"><button type="submit">Message envoyé</button></div>
-						</form>
-					</div> -->
+					<div class="my-3">
+						<div class="loading">Chargement..</div>
+						<div class="error-message"></div>
+						<div class="sent-message">Votre message a bien été envoyé, Merci beaucoup !</div>
+					</div>
+					<div class="text-center"><button type="submit">Message envoyé</button></div>
 				</div>
 			</div>
 		</section>
