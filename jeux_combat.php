@@ -46,50 +46,51 @@
 					</ul>
 				</nav>
 			</div>
+        </header>
             
-            <section class="container">
-                <div class="row">
-                    <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
-                        <div class="carousel-indicators">
-                            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-                            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
-                            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
-                        </div>
-                        <div class="carousel-inner">
-                            <div class="carousel-item active">
-                            <img src="./assets/img/jeu_img1.png" alt="" class="d-block w-100">
-                            </div>
-                            <div class="carousel-item">
-                            <img src="./assets/img/jeu_img2.png" alt="" class="d-block w-100">
-                            </div>
-                            <div class="carousel-item">
-                            <img src="./assets/img/jeu_img3.png" alt="" class="d-block w-100">
-                            </div>
-                        </div>
-                        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
-                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                            <span class="visually-hidden">Previous</span>
-                        </button>
-                        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
-                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                            <span class="visually-hidden">Next</span>
-                        </button>
+        <section class="container">
+            <div class="row">
+                <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
+                    <div class="carousel-indicators">
+                        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
                     </div>
+                    <div class="carousel-inner">
+                        <div class="carousel-item active">
+                        <img src="./assets/img/jeu_img1.png" alt="" class="d-block w-100">
+                        </div>
+                        <div class="carousel-item">
+                        <img src="./assets/img/jeu_img2.png" alt="" class="d-block w-100">
+                        </div>
+                        <div class="carousel-item">
+                        <img src="./assets/img/jeu_img3.png" alt="" class="d-block w-100">
+                        </div>
+                    </div>
+                    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Previous</span>
+                    </button>
+                    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Next</span>
+                    </button>
                 </div>
-            </section>
+            </div>
+        </section>
 
-            <!-- ======= Footer ======= -->
-            <footer id="footer">
-                <div class="container">
-                <div class="copyright">
-                    &copy; Copyright Mélany Froment</strong>
-                </div>
-                <!-- <div class="credits"> -->
-                    <!-- Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a> -->
-                <!-- </div> -->
-                </div>
-            </footer>
-	         <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+        <!-- ======= Footer ======= -->
+        <footer id="footer">
+            <div class="container">
+            <div class="copyright">
+                &copy; Copyright Mélany Froment</strong>
+            </div>
+            <!-- <div class="credits"> -->
+                <!-- Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a> -->
+            <!-- </div> -->
+            </div>
+        </footer>
+        <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
 
         <script src="assets/vendor/aos/aos.js"></script>
         <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
