@@ -562,12 +562,6 @@
 							</div>
 						</div>
 					</div>
-					<div class="my-3">
-						<div class="loading">Chargement..</div>
-						<div class="error-message"></div>
-						<div class="sent-message">Votre message a bien été envoyé, Merci beaucoup !</div>
-					</div>
-					<div class="text-center"><button type="submit">Message envoyé</button></div>
 				</div>
 			</div>
 		</section>
