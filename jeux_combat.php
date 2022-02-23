@@ -49,43 +49,46 @@
         </header>
         <main id="main">  
             <section class="container">
-                <div class="row">
-                    <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
-                        <div class="carousel-indicators">
-                            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-                            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
-                            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
-                        </div>
-                        <div class="carousel-inner">
-                            <div class="carousel-item active">
-                            <img src="./assets/img/jeu_img1.png" alt="" class="d-block w-100">
-                            </div>
-                            <div class="carousel-item">
-                            <img src="./assets/img/jeu_img2.png" alt="" class="d-block w-100">
-                            </div>
-                            <div class="carousel-item">
-                            <img src="./assets/img/jeu_img3.png" alt="" class="d-block w-100">
-                            </div>
-                        </div>
-                        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
-                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                            <span class="visually-hidden">Previous</span>
-                        </button>
-                        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
-                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                            <span class="visually-hidden">Next</span>
-                        </button>
-                    </div>
-                </div>
+                
             </section>
             <section class="conatiner">
                 <div class="row">
-                    <h1>Projet encadré : Jeux de Combat</h1>
-                    <p>
-                        Jeu créé en PHP Orienté Objet.<br/>
-                        Ce jeu de combat à pour but de chosir, supprimer ou créer un personnage, et d'en frapper un autre. <br/>
-                        Cela rapport des point et a un certains nombre de point celui-ci gagne d'un niveau.
-                    </p>
+                    <div class="col-sm-6">
+                        <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
+                            <div class="carousel-indicators">
+                                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+                            </div>
+                            <div class="carousel-inner">
+                                <div class="carousel-item active">
+                                <img src="./assets/img/jeu_img1.png" alt="" class="d-block w-100">
+                                </div>
+                                <div class="carousel-item">
+                                <img src="./assets/img/jeu_img2.png" alt="" class="d-block w-100">
+                                </div>
+                                <div class="carousel-item">
+                                <img src="./assets/img/jeu_img3.png" alt="" class="d-block w-100">
+                                </div>
+                            </div>
+                            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+                                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                <span class="visually-hidden">Previous</span>
+                            </button>
+                            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+                                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                <span class="visually-hidden">Next</span>
+                            </button>
+                        </div>
+                    </div>
+                    <div class="col-sm-6">
+                        <h1>Projet encadré : Jeux de Combat</h1>
+                        <p>
+                            Jeu créé en PHP Orienté Objet.<br/>
+                            Ce jeu de combat à pour but de chosir, supprimer ou créer un personnage, et d'en frapper un autre. <br/>
+                            Cela rapport des point et a un certains nombre de point celui-ci gagne d'un niveau.
+                        </p>
+                    </div>
                 </div>
             </section>
         </main>
