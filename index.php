@@ -583,7 +583,7 @@
 				</div>
 				<div class="row" data-aos="fade-in">
 					<div class="col-lg-12 d-flex align-items-stretch">
-						<div class="info">
+						<div class="col-sm-6 info">
 							<div class="address">
 								<i class="bi bi-geo-alt"></i>
 								<h4>Adresse:</h4>
@@ -601,6 +601,8 @@
 								<h4>Téléphone:</h4>
 								<p>06 24 36 05 61</p>
 							</div>
+						</div>
+						<div class="col-sm-6">
 							<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d92372.03854231324!2d6.866962072639001!3d43.65594476892793!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12cc25fe3958edfb%3A0x117727988cf82e2d!2sGrasse!5e0!3m2!1sfr!2sfr!4v1641319560933!5m2!1sfr!2sfr" width="600" height="650" style="border:0;" allowfullscreen="" loading="lazy" class="img-fluid"></iframe>
 						</div>
 					</div>
