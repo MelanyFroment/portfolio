@@ -286,7 +286,7 @@
 						</div>
 					</div> -->
 
-					<div class="col-lg-4 col-md-6 portfolio-item filter-card">
+					<!-- <div class="col-lg-4 col-md-6 portfolio-item filter-card">
 						<div class="portfolio-wrap">
 							<img src="assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
 							<div class="portfolio-links">
@@ -294,9 +294,9 @@
 								<a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
 							</div>
 						</div>
-					</div>
+					</div> -->
 
-					<div class="col-lg-4 col-md-6 portfolio-item filter-web">
+					<!-- <div class="col-lg-4 col-md-6 portfolio-item filter-web">
 						<div class="portfolio-wrap">
 							<img src="assets/img/portfolio/portfolio-5.jpg" class="img-fluid" alt="">
 							<div class="portfolio-links">
@@ -304,9 +304,9 @@
 								<a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
 							</div>
 						</div>
-					</div>
+					</div> -->
 
-					<div class="col-lg-4 col-md-6 portfolio-item filter-card">
+					<!-- <div class="col-lg-4 col-md-6 portfolio-item filter-card">
 						<div class="portfolio-wrap">
 							<img src="assets/img/portfolio/portfolio-7.jpg" class="img-fluid" alt="">
 							<div class="portfolio-links">
@@ -314,9 +314,9 @@
 								<a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
 							</div>
 						</div>
-					</div>
+					</div> -->
 
-					<div class="col-lg-4 col-md-6 portfolio-item filter-card">
+					<!-- <div class="col-lg-4 col-md-6 portfolio-item filter-card">
 						<div class="portfolio-wrap">
 							<img src="assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
 							<div class="portfolio-links">
@@ -324,9 +324,9 @@
 								<a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
 							</div>
 						</div>
-					</div>
+					</div> -->
 
-					<div class="col-lg-4 col-md-6 portfolio-item filter-web">
+					<!-- <div class="col-lg-4 col-md-6 portfolio-item filter-web">
 						<div class="portfolio-wrap">
 							<img src="assets/img/portfolio/portfolio-9.jpg" class="img-fluid" alt="">
 							<div class="portfolio-links">
@@ -334,7 +334,7 @@
 								<a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
 							</div>
 						</div>
-					</div>
+					</div> -->
 				</div>
 			</div>
 		</section>
