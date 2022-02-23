@@ -46,20 +46,51 @@
 					</ul>
 				</nav>
 			</div>
-		</header>
+		</header class="container">
+            <div class="row">
+                <h1>Projet encadré : Jeux Combats</h1>
+                <div id="demo" class="carousel slide" data-bs-ride="carousel">
+                    <div class="carousel-indicators">
+                        <button type="button" data-bs-target="#demo" data-bs-slide-to="0" class="active"></button>
+                        <button type="button" data-bs-target="#demo" data-bs-slide-to="1"></button>
+                        <button type="button" data-bs-target="#demo" data-bs-slide-to="2"></button>
+                    </div>
+
+                    <div class="carousel-inner">
+                        <div class="carousel-item active">
+                            <img src="./assets/img/jeu_img1.png" alt="" class="d-block w-100">
+                        </div>
+                        <div class="carousel-item">
+                            <img src="./assets/img/jeu_img2.png" alt="" class="d-block w-100">
+                        </div>
+                        <div class="carousel-item">
+                            <img src="./assets/img/jeu_img3.png" alt="" class="d-block w-100">
+                        </div>
+                    </div>
+
+                    <button class="carousel-control-prev" type="button" data-bs-target="#demo" data-bs-slide="prev">
+                        <span class="carousel-control-prev-icon"></span>
+                    </button>
+                    <button class="carousel-control-next" type="button" data-bs-target="#demo" data-bs-slide="next">
+                        <span class="carousel-control-next-icon"></span>
+                    </button>
+                </div>
+            </div>
+        <section>
+
+        </section>
 
          <!-- ======= Footer ======= -->
-	  <footer id="footer">
-		<div class="container">
-		  <div class="copyright">
-			&copy; Copyright Mélany Froment</strong>
-		  </div>
-		  <!-- <div class="credits"> -->
-			<!-- Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a> -->
-		  <!-- </div> -->
-		</div>
-	  </footer>
-
+        <footer id="footer">
+            <div class="container">
+            <div class="copyright">
+                &copy; Copyright Mélany Froment</strong>
+            </div>
+            <!-- <div class="credits"> -->
+                <!-- Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a> -->
+            <!-- </div> -->
+            </div>
+        </footer>
 	  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
 
 	  <script src="assets/vendor/aos/aos.js"></script>
