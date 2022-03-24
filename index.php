@@ -24,6 +24,10 @@
 	</head>
 
 	<body>
+
+		<div id="advertissement_browser">
+			<div>Site non compatible avec Edge <= 90</div>
+		</div>
 		<i class="bi bi-list mobile-nav-toggle d-xl-none"></i>
 		<header id="header">
 			<div class="d-flex flex-column">
@@ -69,7 +73,7 @@
 						<div class="row">
 							<div class="col-lg-6">
 								<ul>
-									<li><i class="bi bi-chevron-right"></i> <strong>Anniversaire:</strong> <span>15 Nov 2000</span></li>
+									<!-- <li><i class="bi bi-chevron-right"></i> <strong>Anniversaire:</strong> <span>15 Nov 2000</span></li> -->
 									<li><i class="bi bi-chevron-right"></i> <strong>Téléphone:</strong> <span>06 24 36 05 61</span></li>
 									<li><i class="bi bi-chevron-right"></i> <strong>Adresse:</strong> <span>42 Avenue Jean XXIII, 06130</span></li>
 									<li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <span>melany.from@yahoo.com</span></li>
@@ -78,14 +82,14 @@
 							</div>
 							<div class="col-lg-6">
 								<ul>
-									<li><i class="bi bi-chevron-right"></i> <strong>Etude:</strong> <span>BTS SIO</span></li>
-									<li><i class="bi bi-chevron-right"></i> <strong>Spécialité:</strong> <span>SLAM <br/> (Solutions Logicielles et Applications Métiers)</span></li>
+									<li><i class="bi bi-chevron-right"></i> <strong>Etude:</strong> <span>BTS SIO SLAM</span></li>
+									<li><i class="bi bi-chevron-right"></i> <strong>Spécialité:</strong> <span>(Solutions Logicielles et Applications Métiers)</span></li>
 									<li><i class="bi bi-chevron-right"></i> <strong>Entreprise:</strong> <span>VN Web</span></li>
 								</ul>
 							</div>
 						</div>
-						<a href="./assets/img/Curriculum vitæ.pdf" class="btn btn-primary btn-sm" tabindex="-1" role="button" aria-disabled="true">Voir CV</a>
-						<a href="./assets/img/Tableau-synthese.pdf" class="btn btn-primary btn-sm" tabindex="-1" role="button" aria-disabled="true">Tableau de synthése</a>
+						<a href="./assets/img/Curriculum vitæ.pdf" class="btn btn-primary btn-sm" target="_blank" tabindex="-1" role="button" aria-disabled="true">Voir CV</a>
+						<a href="./assets/img/Tableau-synthese.pdf" class="btn btn-primary btn-sm" target="_blank" tabindex="-1" role="button" aria-disabled="true">Tableau de synthése</a>
 					</div>  
 				</div>
 			</div>
