@@ -30,10 +30,10 @@
 				<div class="profile"> 
 					<img src="assets/img/photo_princ.jpg" alt="" class="img-fluid rounded-circle ">
 					<h1 class="text-light"><a href="index.html">Mélany Froment</a></h1>
-					<div class="social-links mt-3 text-center">
+					<!-- <div class="social-links mt-3 text-center">
 						<a href="https://www.facebook.com/melany.froment/" class="facebook"><i class="bx bxl-facebook"></i></a>
 						<a href="https://www.instagram.com/melnsta/" class="instagram"><i class="bx bxl-instagram"></i></a>
-					</div>
+					</div> -->
 				</div>
 				<nav id="navbar" class="nav-menu navbar">
 					<ul>
