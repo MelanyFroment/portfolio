@@ -538,7 +538,24 @@
 					<h2>Veille Juridique</h2> 
 				</div>
 				<h1 class="text-center mb-5">Boutique en ligne conforme à la législation</h1>
-				<img src="assets/img/secu.png" alt="" class="img-fluid mb-5">
+				<img src="assets/img/secu.png" alt="" class="img-fluid mb-5 w-100">
+				<p>
+					Il y a un certain nombre d’aspects juridiques qui s’appliquent spécifiquement aux boutiques en ligne.
+					Les plus importantes sont les <b>réglementations légales</b> telles que :</br>
+					<ul>
+						<li>Le nouveau <a href="https://www.ionos.fr/digitalguide/sites-internet/droit-dinternet/le-rgpd-quels-changements-pour-les-entreprises/">RGPD</a></li>
+						<li>Les sites Web non encore actifs avec le <a href="https://www.ionos.fr/digitalguide/sites-internet/droit-dinternet/le-reglement-eprivacy-projet-de-lue/"> règlement ePrivacy</a></li>
+						<li>La directive sur les <a href="https://www.ionos.fr/digitalguide/sites-internet/droit-dinternet/la-directives-europeennes-sur-les-cookies-en-france/">cookies de l’UE</a></li>
+					</ul>
+				</p>
+				<small>Les sources : </br>
+					<ul>
+						<li>https://www.ionos.fr/digitalguide/web-marketing/vendre-sur-internet/les-points-auxquels-veiller-pour-votre-boutique-en-ligne/</li>
+						<li>https://www.ionos.fr/digitalguide/sites-internet/droit-dinternet/le-rgpd-quels-changements-pour-les-entreprises/</li>
+						<li>https://www.ionos.fr/digitalguide/sites-internet/droit-dinternet/le-reglement-eprivacy-projet-de-lue/</li>
+						<li>https://www.ionos.fr/digitalguide/sites-internet/droit-dinternet/la-directives-europeennes-sur-les-cookies-en-france/</li>
+					</ul>
+				</small>
 			</div>
 		</section>
 
