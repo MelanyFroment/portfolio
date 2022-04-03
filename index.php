@@ -45,7 +45,8 @@
 						<li><a href="#about" class="nav-link scrollto"><i class="bx bx-user"></i> <span>À propos</span></a></li>
 						<li><a href="#resume" class="nav-link scrollto"><i class="bx bx-file-blank"></i> <span>BTS SIO</span></a></li>
 						<li><a href="#portfolio" class="nav-link scrollto"><i class="bx bx-book-content"></i> <span>Projet</span></a></li>
-						<li><a href="#services" class="nav-link scrollto"><i class="bx bx-server"></i> <span>Veille</span></a></li>
+						<li><a href="#services" class="nav-link scrollto"><i class="bx bx-server"></i> <span>Veille informatique</span></a></li>
+						<li><a href="#services1" class="nav-link scrollto"><i class="bx bx-server"></i> <span>Veille Juridique</span></a></li>
 						<li><a href="#contact" class="nav-link scrollto"><i class="bx bx-envelope"></i> <span>Contact</span></a></li>
 					</ul>
 				</nav>
@@ -527,6 +528,17 @@
 					</div>
 					<embed src="./assets/img/Tableau-synthese.pdf" width=100% height=500 type='application/pdf'/>
 				</div>
+			</div>
+		</section>
+		
+
+		<section id="services1" class="services">
+			<div class="container">
+			<div class="section-title">
+					<h2>Veille Juridique</h2> 
+				</div>
+				<h1 class="text-center mb-5">Boutique en ligne conforme à la législation</h1>
+				<img src="assets/img/secu.png" alt="" class="img-fluid mb-5">
 			</div>
 		</section>
 
