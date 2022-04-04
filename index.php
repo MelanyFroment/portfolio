@@ -583,6 +583,26 @@
 								</div>
 							</div> 
 						</div>
+
+						<div class="col-lg-3 col-md-6 portfolio-item">
+							<div class="portfolio-wrap">
+								<img src="./assets/img/vendre-ligne.jpg" class="img-fluid" alt="">
+								<div class="portfolio-links">
+									<a href="assets/img/vendre-ligne.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
+									<a href="https://www.ionos.fr/digitalguide/web-marketing/vendre-sur-internet/les-meilleures-plateformes-de-vente-en-ligne-a-connaitre/"><i class="bx bx-link"></i></a>
+								</div>
+							</div> 
+						</div>
+
+						<div class="col-lg-3 col-md-6 portfolio-item">
+							<div class="portfolio-wrap">
+								<img src="./assets/img/droit-img.jpg" class="img-fluid" alt="">
+								<div class="portfolio-links">
+									<a href="assets/img/droit-img.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
+									<a href="https://www.ionos.fr/digitalguide/sites-internet/droit-dinternet/droit-dauteur-sur-internet/"><i class="bx bx-link"></i></a>
+								</div>
+							</div> 
+						</div>
 					</div>
 				</div>
 			
