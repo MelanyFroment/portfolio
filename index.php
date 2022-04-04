@@ -524,12 +524,15 @@
 							</ul>
 						</ul>
 					</p> 
-					<div id="tableau-synoptique" class="section-title mt-5"> 
-						<h2>Tableau de synthése</h2> 
-					</div>
-					<embed src="./assets/img/Tableau-synthese.pdf" width=100% height=500 type='application/pdf'/>
 				</div>
 			</div>
+		</section>
+
+		<section id="tableau-synoptique" class="section-title mt-5"> 
+			<div class="container">	
+				<h2>Tableau de synthése</h2>  
+			</div>
+			<embed src="./assets/img/Tableau-synthese.pdf" width=100% height=500 type='application/pdf'/>
 		</section>
 		
 
