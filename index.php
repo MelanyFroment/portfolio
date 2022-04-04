@@ -537,12 +537,61 @@
 		
 
 		<section id="services1" class="services">
+			
 			<div class="container">
+					<div class="section-title">
+						<h2>Veille Juridique</h2>
+						<h5>Boutique en ligne conforme à la législation</h5>
+					</div>
+					<div class="row portfolio-container" data-aos="fade-up" data-aos-delay="100">
+						<div class="col-lg-4 col-md-6 portfolio-item">
+							<div class="portfolio-wrap">
+								<img src="assets/img/cookies.png" class="img-fluid" alt="">
+								<div class="portfolio-links">
+									<a href="assets/img/cookies.png" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
+									<a href="https://www.ionos.fr/digitalguide/sites-internet/droit-dinternet/la-directives-europeennes-sur-les-cookies-en-france/"><i class="bx bx-link"></i></a>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-lg-4 col-md-6 portfolio-item">
+							<div class="portfolio-wrap">
+								<img src="assets/img/rgpd.png" class="img-fluid" alt="">
+								<div class="portfolio-links">
+									<a href="assets/img/rgpd.png" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
+									<a href="https://www.ionos.fr/digitalguide/sites-internet/droit-dinternet/le-rgpd-quels-changements-pour-les-entreprises/"><i class="bx bx-link"></i></a>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-lg-4 col-md-6 portfolio-item">
+							<div class="portfolio-wrap">
+								<img src="assets/img/secu.png" class="img-fluid" alt="">
+								<div class="portfolio-links">
+									<a href="assets/img/secu.png" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
+									<a href="https://www.ionos.fr/digitalguide/sites-internet/droit-dinternet/le-reglement-eprivacy-projet-de-lue/"><i class="bx bx-link"></i></a>
+								</div> 
+							</div>
+						</div>
+
+						<div class="col-lg-4 col-md-6 portfolio-item">
+							<div class="portfolio-wrap">
+								<img src="./assets/img/bt-ligne.jpg" class="img-fluid" alt="">
+								<div class="portfolio-links">
+									<a href="assets/img/bt-ligne.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
+									<a href="https://www.ionos.fr/digitalguide/web-marketing/vendre-sur-internet/les-points-auxquels-veiller-pour-votre-boutique-en-ligne/"><i class="bx bx-link"></i></a>
+								</div>
+							</div> 
+						</div>
+					</div>
+				</div>
+			
+			<!-- <div class="container">
 			<div class="section-title">
 					<h2>Veille Juridique</h2> 
 				</div>
-				<h1 class="text-center mb-5">Boutique en ligne conforme à la législation</h1>
-				<img src="assets/img/secu.png" alt="" class="img-fluid mb-5 w-100">
+				<h1 class="text-center mb-5">Boutique en ligne conforme à la législation</h1> -->
+				<!-- <img src="assets/img/secu.png" alt="" class="img-fluid mb-5 w-100">
 				<p>
 					Il y a un certain nombre d’aspects juridiques qui s’appliquent spécifiquement aux boutiques en ligne.
 					Les plus importantes sont les <b>réglementations légales</b> telles que :</br>
@@ -559,7 +608,7 @@
 						<li>https://www.ionos.fr/digitalguide/sites-internet/droit-dinternet/le-reglement-eprivacy-projet-de-lue/</li>
 						<li>https://www.ionos.fr/digitalguide/sites-internet/droit-dinternet/la-directives-europeennes-sur-les-cookies-en-france/</li>
 					</ul>
-				</small>
+				</small> -->
 			</div>
 		</section>
 
