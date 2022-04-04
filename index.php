@@ -544,7 +544,7 @@
 						<h5>Boutique en ligne conforme à la législation</h5>
 					</div>
 					<div class="row portfolio-container" data-aos="fade-up" data-aos-delay="100">
-						<div class="col-lg-4 col-md-6 portfolio-item">
+						<div class="col-lg-3 col-md-6 portfolio-item">
 							<div class="portfolio-wrap">
 								<img src="assets/img/cookies.png" class="img-fluid" alt="">
 								<div class="portfolio-links">
@@ -554,7 +554,7 @@
 							</div>
 						</div>
 
-						<div class="col-lg-4 col-md-6 portfolio-item">
+						<div class="col-lg-3 col-md-6 portfolio-item">
 							<div class="portfolio-wrap">
 								<img src="assets/img/rgpd.png" class="img-fluid" alt="">
 								<div class="portfolio-links">
@@ -564,7 +564,7 @@
 							</div>
 						</div>
 
-						<div class="col-lg-4 col-md-6 portfolio-item">
+						<div class="col-lg-3 col-md-6 portfolio-item">
 							<div class="portfolio-wrap">
 								<img src="assets/img/secu.png" class="img-fluid" alt="">
 								<div class="portfolio-links">
@@ -574,7 +574,7 @@
 							</div>
 						</div>
 
-						<div class="col-lg-4 col-md-6 portfolio-item">
+						<div class="col-lg-3 col-md-6 portfolio-item">
 							<div class="portfolio-wrap">
 								<img src="./assets/img/bt-ligne.jpg" class="img-fluid" alt="">
 								<div class="portfolio-links">
