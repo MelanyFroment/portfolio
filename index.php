@@ -541,7 +541,7 @@
 			<div class="container">
 					<div class="section-title">
 						<h2>Veille Juridique</h2>
-						<h5>Boutique en ligne conforme à la législation</h5>
+						<h5>Ma veille juridique porte sur les Boutiques en ligne conforme à la législation</h5>
 					</div>
 					<div class="row portfolio-container" data-aos="fade-up" data-aos-delay="100">
 						<div class="col-lg-3 col-md-6 portfolio-item">
