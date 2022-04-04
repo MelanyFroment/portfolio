@@ -46,16 +46,16 @@
 						<li><a href="#resume" class="nav-link scrollto"><i class="bx bx-file-blank"></i> <span>BTS SIO</span></a></li>
 						<li><a href="#portfolio" class="nav-link scrollto"><i class="bx bx-book-content"></i> <span>Projet</span></a></li>
 						<li><a href="#services" class="nav-link scrollto"><i class="bx bx-server"></i> <span>Veille informatique</span></a></li>
-						<li><a href="#tableau" class="nav-link scrollto"><i class="bx bx-server"></i> <span>Tableau de synthèse</span></a></li>
+						<li><a href="#tableau-synoptique" class="nav-link scrollto"><i class="bx bx-server"></i> <span>Tableau de synthèse</span></a></li>
 						<li><a href="#services1" class="nav-link scrollto"><i class="bx bx-server"></i> <span>Veille Juridique</span></a></li>
 						<li><a href="#contact" class="nav-link scrollto"><i class="bx bx-envelope"></i> <span>Contact</span></a></li>
 					</ul>
-				</nav>
+				</nav> 
 			</div>
 		</header>
 	<section id="hero" class="d-flex flex-column justify-content-center align-items-center">
 		<div class="hero-container" data-aos="fade-in">
-			<h1>Bienvenu sur mon <br/> Portfolio</h1>
+			<h1>Bienvenu sur mon <br/> Portfolio</h1> 
 			<p>Je m'appelle <span class="typed" data-typed-items="Mélany Froment"></span></p> 
 		</div>
 	</section>
@@ -524,7 +524,7 @@
 							</ul>
 						</ul>
 					</p> 
-					<div id="tableau" class="section-title mt-5">
+					<div id="tableau-synoptique" class="section-title mt-5"> 
 						<h2>Tableau de synthése</h2> 
 					</div>
 					<embed src="./assets/img/Tableau-synthese.pdf" width=100% height=500 type='application/pdf'/>
