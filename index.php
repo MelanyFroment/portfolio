@@ -46,7 +46,7 @@
 						<li><a href="#resume" class="nav-link scrollto"><i class="bx bx-file-blank"></i> <span>BTS SIO</span></a></li>
 						<li><a href="#portfolio" class="nav-link scrollto"><i class="bx bx-book-content"></i> <span>Projet</span></a></li>
 						<li><a href="#services" class="nav-link scrollto"><i class="bx bx-server"></i> <span>Veille informatique</span></a></li>
-						<li><a href="#tableau" class="nav-link scrollto"><i class="bx bx-server"></i> <span>Veille Juridique</span></a></li>
+						<li><a href="#tableau" class="nav-link scrollto"><i class="bx bx-server"></i> <span>Tableau de synthèse</span></a></li>
 						<li><a href="#services1" class="nav-link scrollto"><i class="bx bx-server"></i> <span>Veille Juridique</span></a></li>
 						<li><a href="#contact" class="nav-link scrollto"><i class="bx bx-envelope"></i> <span>Contact</span></a></li>
 					</ul>
