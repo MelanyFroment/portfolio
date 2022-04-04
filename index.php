@@ -548,7 +548,7 @@
 							<div class="portfolio-wrap">
 								<img src="assets/img/cookies.png" class="img-fluid" alt="">
 								<div class="portfolio-links">
-									<a href="assets/img/cookies.png" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
+									<a href="assets/img/cookies.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="La directives europeennes sur les cookies en france"><i class="bx bx-plus"></i></a>
 									<a href="https://www.ionos.fr/digitalguide/sites-internet/droit-dinternet/la-directives-europeennes-sur-les-cookies-en-france/"><i class="bx bx-link"></i></a>
 								</div>
 							</div>
@@ -558,7 +558,7 @@
 							<div class="portfolio-wrap">
 								<img src="assets/img/rgpd.png" class="img-fluid" alt="">
 								<div class="portfolio-links">
-									<a href="assets/img/rgpd.png" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
+									<a href="assets/img/rgpd.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Quelques changements pour les entreprises concernant le RGPD"><i class="bx bx-plus"></i></a>
 									<a href="https://www.ionos.fr/digitalguide/sites-internet/droit-dinternet/le-rgpd-quels-changements-pour-les-entreprises/"><i class="bx bx-link"></i></a>
 								</div>
 							</div>
@@ -568,7 +568,7 @@
 							<div class="portfolio-wrap">
 								<img src="assets/img/secu.png" class="img-fluid" alt="">
 								<div class="portfolio-links">
-									<a href="assets/img/secu.png" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
+									<a href="assets/img/secu.png" data-gallery="portfolioGallery" class="portfolio-lightbox " title="Le réglement eprivacy"><i class="bx bx-plus"></i></a>
 									<a href="https://www.ionos.fr/digitalguide/sites-internet/droit-dinternet/le-reglement-eprivacy-projet-de-lue/"><i class="bx bx-link"></i></a>
 								</div> 
 							</div>
@@ -578,7 +578,7 @@
 							<div class="portfolio-wrap">
 								<img src="./assets/img/bt-ligne.jpg" class="img-fluid" alt="">
 								<div class="portfolio-links">
-									<a href="assets/img/bt-ligne.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
+									<a href="assets/img/bt-ligne.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Les point importants pour les boutiques en lignes"><i class="bx bx-plus"></i></a>
 									<a href="https://www.ionos.fr/digitalguide/web-marketing/vendre-sur-internet/les-points-auxquels-veiller-pour-votre-boutique-en-ligne/"><i class="bx bx-link"></i></a>
 								</div>
 							</div> 
@@ -588,7 +588,7 @@
 							<div class="portfolio-wrap">
 								<img src="./assets/img/vendre-ligne.jpg" class="img-fluid" alt="">
 								<div class="portfolio-links">
-									<a href="assets/img/vendre-ligne.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
+									<a href="assets/img/vendre-ligne.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Les meilleurs playeformes de vente en lognes"><i class="bx bx-plus"></i></a>
 									<a href="https://www.ionos.fr/digitalguide/web-marketing/vendre-sur-internet/les-meilleures-plateformes-de-vente-en-ligne-a-connaitre/"><i class="bx bx-link"></i></a>
 								</div>
 							</div> 
@@ -598,7 +598,7 @@
 							<div class="portfolio-wrap">
 								<img src="./assets/img/droit-img.jpg" class="img-fluid" alt="">
 								<div class="portfolio-links">
-									<a href="assets/img/droit-img.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
+									<a href="assets/img/droit-img.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Les droits d'auteur sur internet"><i class="bx bx-plus"></i></a>
 									<a href="https://www.ionos.fr/digitalguide/sites-internet/droit-dinternet/droit-dauteur-sur-internet/"><i class="bx bx-link"></i></a>
 								</div>
 							</div> 
