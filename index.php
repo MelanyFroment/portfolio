@@ -254,7 +254,7 @@
 				<div class="container">
 					<div class="section-title">
 						<h2>Projet</h2>
-						<p> Voici quelqu'uns de mes projet</p>
+						<p> Voici quelques uns de mes projets</p>
 					</div>
 					<div class="row" data-aos="fade-up">
 						<div class="col-lg-12 d-flex justify-content-center">
