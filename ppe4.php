@@ -31,7 +31,7 @@
 					<img src="assets/img/photo_princ.jpg" alt="" class="img-fluid rounded-circle ">
 					<h1 class="text-light"><a href="index.html">Mélany Froment</a></h1>
 					<div class="social-links mt-3 text-center">
-                        <a href="https://www.facebook.com/melany.froment/" class="facebook"><i class="bx bxl-facebook"></i></a>
+                    <a href="https://www.facebook.com/melany.froment/" class="facebook"><i class="bx bxl-facebook"></i></a>
 						<a href="https://www.instagram.com/melnsta/" class="instagram"><i class="bx bxl-instagram"></i></a>
 					</div>
 				</div>
@@ -43,47 +43,58 @@
 			</div>
         </header>
         <main id="main">  
-            <section class="container">
-                
-            </section>
             <section class="conatiner">
-                <div class="row"> 
-                    <div class="col-sm-6">
-                        <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
-                            <div class="carousel-indicators">
-                                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-                                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
-                                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
-                            </div>
-                            <div class="carousel-inner">
-                                <div class="carousel-item active">
-                                    <img src="./assets/img/projet_form1.png" alt="" class="d-block w-100">
-                                </div>
-                                <div class="carousel-item">
-                                    <img src="./assets/img/projet_form2.png" alt="" class="d-block w-100">
-                                </div>
-                                <div class="carousel-item">
-                                    <img src="./assets/img/projet_form3.png" alt="" class="d-block w-100">
-                                </div>
-                            </div>
-                            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
-                                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                                <span class="visually-hidden">Previous</span>
-                            </button>
-                            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
-                                <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                                <span class="visually-hidden">Next</span>
-                            </button>
-                        </div>  
-                    </div>
-                    <div class="col-sm-6 section-title"> 
+                <div class="p-2"> 
+                    <div class="section-title">
                         <h2>PPE : GSBADF</h2>
-                        <p>
+                    </div>
+                    <div class="col-sm-8 offset-md-2">
+                        <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
+                                <div class="carousel-indicators">
+                                    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                                    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                                    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+                                </div>
+                                <div class="carousel-inner">
+                                    <div class="carousel-item active">
+                                        <img src="./assets/img/projet_form1.png" alt="" class="d-block w-100">
+                                    </div>
+                                    <div class="carousel-item">
+                                        <img src="./assets/img/projet_form2.png" alt="" class="d-block w-100">
+                                    </div>
+                                    <div class="carousel-item">
+                                        <img src="./assets/img/projet_form3.png" alt="" class="d-block w-100">
+                                    </div>
+                                </div>
+                                <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+                                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                    <span class="visually-hidden">Previous</span>
+                                </button>
+                                <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+                                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                    <span class="visually-hidden">Next</span>
+                                </button>
+                            </div>  
+                        </div>
+                    </div>
+                    <div class="col-sm-12"> 
+                        <p class="mt-3 p-2">
                             Projet créé en Csharp<br/> 
                             Formulaire de connexion sécurisé, avec un formulaire remplissage de ticket, et l'affichage de ces tickets.
-                            <br/>
+                            
                         </p>
                     </div>
+                </div>
+                <div class="row p-2">
+                    <div class="col-sm-6 text-center"> 
+                        <a href="./assets/css/GSBADF_local_fini.zip" class="btn btn-primary btn-sm text-uppercase w-100" target="_blank">Télécharger le zip</a>
+                    </div>
+                    <div class="col-sm-6 text-center"> 
+                        <a href="./assets/css/Epreuve E5 PPE4 - BTS SIO 2022_Fiche_Slam.pdf" class="btn btn-primary btn-sm text-uppercase w-100" target="_blank">fiche Synoptique</a>
+                    </div>
+                    <!-- <div class="col-sm-4 text-center"> 
+                        <a href="" class="btn btn-primary btn-sm text-uppercase w-100" target="_blank">Lien du site PPE3</a>
+                    </div> -->
                 </div>
             </section>
         </main>
@@ -113,3 +124,6 @@
         <script src="assets/js/main.js"></script>
 	</body>
 </html>
+
+                    
+                 
