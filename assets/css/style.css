@@ -519,7 +519,7 @@ section {
   text-align: center;
   background: rgba(20, 157, 221, 0.75);
   transition: 0.3s;
-  width: 50%;
+  width: 100%;
 }
 .portfolio .portfolio-wrap .portfolio-links a:hover {
   background: rgba(20, 157, 221, 0.95);
@@ -1101,4 +1101,8 @@ iframe.carte{
 }
 .services a{
   color: #7f1a3c;
+}
+
+.lien{
+  margin-top: -7%;
 }

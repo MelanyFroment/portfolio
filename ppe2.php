@@ -43,12 +43,12 @@
 			</div>
         </header>
         <main id="main">  
-            <section class="container">
-                
-            </section>
             <section class="conatiner">
-                <div class="row"> 
-                    <div class="col-sm-6">
+                <div class="p-2"> 
+                    <div class="section-title">
+                        <h2>PPE : Maison des Ligues de Lorraine</h2>
+                    </div>
+                    <div class="col-sm-8 offset-md-2">
                         <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
                             <div class="carousel-indicators">
                                 <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
@@ -76,9 +76,8 @@
                             </button>
                         </div>  
                     </div>
-                    <div class="col-sm-6 section-title"> 
-                        <h2>PPE : Maison des Ligues de Lorraine</h2>
-                        <p>
+                    <div class="col-sm-12"> 
+                        <p class="mt-3">
                             Projet créé en HTML, CSS, symfony, Git, Framework : Bootstrap version 5.1.<br/> 
                             Ce projet a pour mission de fournir des espaces et des services aux différentes 
                             ligues sportives régionales et à d’autres structures hébergées.<br/>
@@ -86,7 +85,19 @@
                             championnat régional au travers d’un site web.
                             Ils leur permettrait ainsi d’afficher le classement des diverses équipes et de leur résultats au fil des différentes journées.
                             Il sera également possible de les modifier, ou de les supprimés, a l'aide d'une connexion après inscription. 
+                            
                         </p>
+                    </div>
+                </div>
+                <div class="row p-2">
+                    <div class="col-sm-4 text-center"> 
+                        <a href="./assets/css/PPE_2-master.zip" class="btn btn-primary btn-sm text-uppercase w-100" target="_blank">Télécharger le zip</a>
+                    </div>
+                    <div class="col-sm-4 text-center"> 
+                        <a href="./assets/img/Epreuve E5 PPE3 - BTS SIO 2022_Fiche_Slam.pdf" class="btn btn-primary btn-sm text-uppercase w-100" target="_blank">fiche Synoptique</a>
+                    </div>
+                    <div class="col-sm-4 text-center"> 
+                        <a href="http://51.178.86.117:8078/PPE/ppe2/?controller=connect" class="btn btn-primary btn-sm text-uppercase w-100" target="_blank">Lien du site PPE3</a>
                     </div>
                 </div>
             </section>
