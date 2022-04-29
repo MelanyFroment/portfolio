@@ -103,97 +103,17 @@
 					<h2>Langage utilisé et niveaux acquis</h2>
 				</div>
 				<h5 class="mb-5">Vous pouvez trouvez ci-dessous, les langage vue, et pratiqué lors de mes 2 années de BTS SIO :</h5>
-				<div class="container">
-					<div class="row">
-						<div class="col">
-							<button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#staticBackdrop">
-								Niveau Novice
-							</button>
-
-							<!-- Modal -->
-							<div class="modal fade" id="staticBackdrop" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
-								<div class="modal-dialog modal-dialog-scrollable">
-									<div class="modal-content">
-										<div class="modal-header">
-											<h5 class="modal-title" id="staticBackdropLabel">Niveau Novice</h5>
-											<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-										</div>
-										<div class="modal-body">
-											<p>
-												<ul>
-													<li>GIT</li>
-													<li>PHP OBJET</li> 
-													<li>JAVASCRIPT</li> 
-													<li>JQUERY</li> 
-													<li>SQL</li> 
-													<li>CSHARP</li> 
-												</ul>
-											</p>
-										</div>
-										<div class="modal-footer">
-											<button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Fermer</button>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-						<div class="col">
-							<button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#staticBackdrop2">
-								Niveau Débutant
-							</button>
-
-							<!-- Modal -->
-							<div class="modal fade" id="staticBackdrop2" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
-								<div class="modal-dialog modal-dialog-scrollable">
-									<div class="modal-content">
-										<div class="modal-header">
-											<h5 class="modal-title" id="staticBackdropLabel">Niveau Débutant</h5>
-											<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-										</div>
-										<div class="modal-body">
-											<p>
-												<ul>
-													<li>BOOTSTRAP 3,4,5</li> 
-												</ul>
-											</p>
-										</div>
-										<div class="modal-footer">
-											<button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Fermer</button>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-						<div class="col">
-							<button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#staticBackdrop3">
-								Niveau Intermediaire
-							</button>
-
-							<!-- Modal -->
-							<div class="modal fade" id="staticBackdrop3" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
-								<div class="modal-dialog modal-dialog-scrollable">
-									<div class="modal-content">
-										<div class="modal-header">
-											<h5 class="modal-title" id="staticBackdropLabel">Niveau Intermediaire</h5>
-											<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-										</div>
-										<div class="modal-body">
-											<p>
-												<ul>
-													<li>HTML</li>
-													<li>CSS</li>
-
-												</ul>
-											</p>
-										</div>
-										<div class="modal-footer">
-											<button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Fermer</button>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
+				<div class="progress">
+					<p>HTML / CSS </p>
+					<div class="progress-bar progress-bar-striped bg-warning p-2" role="progressbar" style="width: 40%" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100">40%</div>
+				</div>
+				<div class="progress">
+					<p>Bootstrap 3, 4, 5 / Symfony 3, 4, 5</p>
+					<div class="progress-bar progress-bar-striped bg-danger p-2" role="progressbar" style="width: 30%" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100">30%</div>
+				</div>
+				<div class="progress">
+					<p>Git / PHP / Javascript / SQL / Csharp</p>
+					<div class="progress-bar progress-bar-striped bg-info p-2" role="progressbar" style="width: 10%" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100">10%</div>
 				</div>
 			</div>
 		</section>
