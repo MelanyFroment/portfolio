@@ -55,7 +55,7 @@
 		<section id="hero" class="d-flex flex-column justify-content-center align-items-center">
 			<div class="hero-container" data-aos="fade-in">
 				<h1>Bienvenue sur mon <br/> Portfolio</h1> 
-				<p>Je m'appelle <span class="typed" data-typed-items="Mélany Froment"></span></p> 
+				<p><span class="typed" data-typed-items="Integratrice, et développeuse web"></span></p> 
 			</div>
 		</section>
 
@@ -448,7 +448,7 @@
 								<div class="col-lg-6">
 									<ul>
 										<li><i class="bi bi-chevron-right"></i> <strong>Etude:</strong> <span>BTS SIO SLAM</span></li>
-										<li><i class="bi bi-chevron-right"></i> <strong>Spécialité:</strong> <span>(Solutions Logicielles et Applications Métiers)</span></li>
+										<li><i class="bi bi-chevron-right"></i> <strong>Spécialité:</strong> <span>Integratrice web</span></li>
 										<li><i class="bi bi-chevron-right"></i> <strong>Entreprise:</strong> <span>VN Web</span></li>
 									</ul>
 								</div>
@@ -461,113 +461,61 @@
 				</div>
 			</section>
 
-			<section id="skills" class="skills section-bg">
-				<div class="container">
+		<section id="skills" class="skills section-bg">
+
+			<div class="container">
+				<div id="main-container-social" class="main-container-social"></div>
 					<div class="section-title">
-						<h2>Langage utilisé et niveaux acquis</h2>
+						<h2>Langage utilisé et niveaux acquis.</h2>
 					</div>
-					<h5 class="mb-5">Vous pouvez trouvez ci-dessous, les langage vue, et pratiqué lors de mes 2 années de BTS SIO :</h5>
-					<div class="container">
-						<div class="row">
-							<div class="col">
-								<button type="button" class="btn btn-primary mx-auto d-block" data-bs-toggle="modal" data-bs-target="#staticBackdrop">
-									Niveau Novice
-								</button>
+					<h5 class="mb-5">Vous pouvez trouvez ci-dessous, les langage vue, et pratiqué lors de mes 2 années de BTS, ainsi que le pourcentage d'utilisation de ces langages dans mes projets :</h5>
+					<div class="progress">
+						<p>HTML</p>
+						<div class="progress-bar progress-bar-striped bg-secondary p-2" role="progressbar" style="width: 39.73%" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
+					</div>
+					
+					<div class="progress">
+						<p>CSS</p>
+						<div class="progress-bar progress-bar-striped bg-warning p-2" role="progressbar" style="width: 25.4%" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
+					</div>
 
-								<!-- Modal -->
-								<div class="modal fade" id="staticBackdrop" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
-									<div class="modal-dialog modal-dialog-scrollable">
-										<div class="modal-content">
-											<div class="modal-header">
-												<h5 class="modal-title" id="staticBackdropLabel">Niveau Novice</h5>
-												<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-											</div>
-											<div class="modal-body">
-												<p>
-													<ul>
-														<li>GIT</li>
-														<li>PHP OBJET</li> 
-														<li>JAVASCRIPT</li> 
-														<li>JQUERY</li> 
-														<li>SQL</li> 
-														<li>CSHARP</li> 
-													</ul>
-												</p>
-											</div>
-											<div class="modal-footer">
-												<button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Fermer</button>
-											</div>
-										</div>
-									</div>
-								</div>
-							</div>
-							<div class="col">
-								<button type="button" class="btn btn-primary mx-auto d-block" data-bs-toggle="modal" data-bs-target="#staticBackdrop2">
-									Niveau Débutant
-								</button>
+					<div class="progress">
+						<p>PHP</p>
+						<div class="progress-bar progress-bar-striped bg-success p-2" role="progressbar" style="width: 19.4%" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
+					</div>
 
-								<!-- Modal -->
-								<div class="modal fade" id="staticBackdrop2" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
-									<div class="modal-dialog modal-dialog-scrollable">
-										<div class="modal-content">
-											<div class="modal-header">
-												<h5 class="modal-title" id="staticBackdropLabel">Niveau Débutant</h5>
-												<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-											</div>
-											<div class="modal-body">
-												<p>
-													<ul>
-														<li>BOOTSTRAP 3,4,5</li> 
-													</ul>
-												</p>
-											</div>
-											<div class="modal-footer">
-												<button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Fermer</button>
-											</div>
-										</div>
-									</div>
-								</div>
-							</div>
-							<div class="col">
-								<button type="button" class="btn btn-primary mx-auto d-block" data-bs-toggle="modal" data-bs-target="#staticBackdrop3">
-									Niveau Intermediaire
-								</button>
+					<div class="progress">
+						<p>Twig</p>
+						<div class="progress-bar progress-bar-striped bg-danger p-2" role="progressbar" style="width: 10.06%" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
+					</div>
 
-								<!-- Modal -->
-								<div class="modal fade" id="staticBackdrop3" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
-									<div class="modal-dialog modal-dialog-scrollable">
-										<div class="modal-content">
-											<div class="modal-header">
-												<h5 class="modal-title" id="staticBackdropLabel">Niveau Intermediaire</h5>
-												<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-											</div>
-											<div class="modal-body">
-												<p>
-													<ul>
-														<li>HTML</li>
-														<li>CSS</li>
-
-													</ul>
-												</p>
-											</div>
-											<div class="modal-footer">
-												<button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Fermer</button>
-											</div>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
+					<div class="progress">
+						<p>Javascript</p>
+						<div class="progress-bar progress-bar-striped bg-info p-2" role="progressbar" style="width: 5.4%" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
 					</div>
 				</div>
-			</section>
+			</div>
+			<div class="container">
+				<h5 class="mb-5">Voici les IDE utilisé durant mon années scolaire ainsi que que mon alternance </h5>
+				<div class="row">
+						<img class="shadow-lg p-3 mb-5 bg-body rounded mx-4" alt="100x100" src="./assets/img/logo/Notepad.png" data-holder-rendered="true" style="width: 10%;">	
+				
+						<img class="shadow-lg p-3 mb-5 bg-body rounded mx-4" alt="100x100" src="./assets/img/logo/Visual-Studio.png" data-holder-rendered="true" style="width: 10%;"> 	
+									
+						<img class="shadow-lg p-3 mb-5 bg-body rounded mx-4" alt="100x100" src="./assets/img/logo/Visual_Studio_Code.png" data-holder-rendered="true" style="width: 10%;">	
 
-			<section id="tableau-synoptique" class="section-title mt-5"> 
-				<div class="container">	
-					<h2>Tableau de synthése</h2>  
+						<img class="shadow-lg p-3 mb-5 bg-body rounded mx-4" alt="100x100" src="./assets/img/logo/PhpStorm_Icon.svg.png" data-holder-rendered="true" style="width: 10%;">	
+					</div>  
 				</div>
-				<embed src="./assets/img/Tableau-synthese.pdf" width=100% height=500 type='application/pdf'/>
-			</section>
+			</div>
+		</section>
+
+		<section id="tableau-synoptique" class="section-title mt-5"> 
+			<div class="container">	
+				<h2>Tableau de synthése</h2>  
+			</div>
+			<embed src="./assets/img/Tableau-synthese.pdf" width=100% height=500 type='application/pdf'/>
+		</section>
 
 			<!-- <section id="resume" class="resume">
 				<div class="container">
