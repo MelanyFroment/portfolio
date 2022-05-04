@@ -90,14 +90,17 @@
                     </div>
                 </div>
                 <div class="row p-2">
-                    <div class="col-sm-4 text-center"> 
+                    <div class="col-sm-3 text-center"> 
                         <a href="./assets/css/PPE_2-master.zip" class="btn btn-primary btn-sm text-uppercase w-100" target="_blank">Télécharger le zip</a>
                     </div>
-                    <div class="col-sm-4 text-center"> 
+                    <div class="col-sm-3 text-center"> 
                         <a href="./assets/img/Epreuve E5 PPE3 - BTS SIO 2022_Fiche_Slam.pdf" class="btn btn-primary btn-sm text-uppercase w-100" target="_blank">fiche Synoptique</a>
                     </div>
-                    <div class="col-sm-4 text-center"> 
+                    <div class="col-sm-3 text-center"> 
                         <a href="http://51.178.86.117:8078/PPE/ppe2/?controller=connect" class="btn btn-primary btn-sm text-uppercase w-100" target="_blank">Lien du site PPE3</a>
+                    </div>
+                    <div class="col-sm-3 text-center"> 
+                        <a href="https://github.com/MelanyFroment" class="btn btn-primary btn-sm text-uppercase w-100" target="_blank">GitHub</a>
                     </div>
                 </div>
             </section>
