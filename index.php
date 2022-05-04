@@ -92,6 +92,15 @@
 							<a href="./assets/img/Tableau-synthese.pdf" class="btn btn-primary btn-sm" target="_blank" tabindex="-1" role="button" aria-disabled="true">Tableau de synthése</a>
 							<!-- <a href="synptique.php" class="btn btn-primary btn-sm">Fiche synoptique</a> -->
 						</div>  
+						<div class="section-title">
+							<h2 class="mt-3">À propos de mon entreprise</h2>
+						</div>
+						<p>
+							Spécialisé dans le développement Web front-end, je possède de solides compétences en HTML et CSS, chez VN Web, j'ai pu notamment acquérir de l’expérience en utilisant des Framework tel que Symfony 3, 4, 5, ainsi que Twig pour la création de sites Web réactifs.<br/>
+							j’ai acquis aussi des compétences dans l’optimisation de site, l’UI/UX (positionnements, couleurs, scénarios adaptés aux utilisateurs, etc..) notamment à l'aide de Bootstrap 3, 4, 5. <br/>
+							Pour certains des projets qui m’ont été confié, j’ai eu l’opportunité de prendre le rôle de cheffe de projet, ce qui m'a permis, entre autres, d’acquérir certaines compétences en organisation.<br/>
+							J'effectue aussi régulièrement de la veille sur les différentes outils, langages, et bonnes pratiques, concernant le code et le design. 
+						</p>
 					</div>
 				</div>
 			</section>
