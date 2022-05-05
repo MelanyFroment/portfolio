@@ -91,7 +91,7 @@
                 </div>
                 <div class="row p-2">
                     <div class="col-sm-3 text-center"> 
-                        <a href="./assets/css/PPE_2-master.zip" class="btn btn-primary btn-sm text-uppercase w-100" target="_blank">Télécharger le zip</a>
+                        <a href="./assets/css/M_Froment_PPE2-master.zip" class="btn btn-primary btn-sm text-uppercase w-100" target="_blank">Télécharger le zip</a>
                     </div>
                     <div class="col-sm-3 text-center"> 
                         <a href="./assets/img/Epreuve E5 PPE3 - BTS SIO 2022_Fiche_Slam.pdf" class="btn btn-primary btn-sm text-uppercase w-100" target="_blank">fiche Synoptique</a>
@@ -102,7 +102,7 @@
                     <div class="col-sm-3 text-center"> 
                         <a href="https://github.com/MelanyFroment" class="btn btn-primary btn-sm text-uppercase w-100" target="_blank">GitHub</a>
                     </div>
-                </div>
+                </div> 
             </section>
         </main>
         <!-- ======= Footer ======= -->
