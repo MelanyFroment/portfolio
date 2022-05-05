@@ -86,10 +86,13 @@
                     </div>
                 </div>
                 <div class="row p-2">
-                    <div class="col-sm-6 text-center"> 
+                    <div class="col-sm-4 text-center"> 
                         <a href="./assets/css/GSBADF_local_fini.zip" class="btn btn-primary btn-sm text-uppercase w-100" target="_blank">Télécharger le zip</a>
                     </div>
-                    <div class="col-sm-6 text-center"> 
+                    <div class="col-sm-4 text-center"> 
+                        <a href="./assets/css/bin.zip" class="btn btn-primary btn-sm text-uppercase w-100" target="_blank">Télécharger le zip (Bin)</a>
+                    </div>
+                    <div class="col-sm-4 text-center"> 
                         <a href="./assets/css/Epreuve E5 PPE4 - BTS SIO 2022_Fiche_Slam.pdf" class="btn btn-primary btn-sm text-uppercase w-100" target="_blank">fiche Synoptique</a>
                     </div>
                     <!-- <div class="col-sm-4 text-center"> 
