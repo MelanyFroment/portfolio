@@ -1114,3 +1114,17 @@ iframe.carte{
 
 
 /* TEST */
+.portfolio .portfolio-wrap .portfolio-links a {
+  color: #fff;
+  font-size: 28px;
+  text-align: center;
+  background: rgb(185 36 86 / 84%);
+  transition: 0.3s;
+  width: 100%;
+}
+.portfolio .portfolio-wrap .portfolio-links a:hover {
+  background: rgb(185 36 86);
+}
+.portfolio .portfolio-wrap .portfolio-links a + a {
+  border-left: 1px solid #b92456;
+}
