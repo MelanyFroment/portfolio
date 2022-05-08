@@ -24,7 +24,7 @@
 	</head>
 
 	<body>
-		<div id="advertissement_browser">
+		<div class="d-none d-sm-none d-md-none d-lg-block" id="advertissement_browser">
 			<div>Site non compatible avec Edge <= 90</div>
 		</div>
 		<i class="bi bi-list mobile-nav-toggle d-xl-none"></i>
@@ -115,40 +115,53 @@
 					<h5 class="mb-5">Vous pouvez trouvez ci-dessous, les langage vue, et pratiqué lors de mes 2 années de BTS, ainsi que le pourcentage d'utilisation de ces langages dans mes projets :</h5>
 					<div class="progress">
 						<p>HTML</p>
-						<div class="progress-bar progress-bar-striped bg-secondary p-2" role="progressbar" style="width: 39.73%" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100">39.73%</div>
+						<div class="progress-bar progress-bar-striped bg-secondary p-2 d-none d-sm-none d-md-block" role="progressbar" style="width: 39.73%" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100">39.73%</div>
+						<div class="progress-bar progress-bar-striped bg-secondary p-2 " role="progressbar" style="width: 39.73%" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
 					</div>
 					
 					<div class="progress">
 						<p>CSS</p>
-						<div class="progress-bar progress-bar-striped bg-warning p-2" role="progressbar" style="width: 25.4%" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100">25.4%</div>
+						<div class="progress-bar progress-bar-striped bg-warning p-2 d-none d-sm-none d-md-block" role="progressbar" style="width: 25.4%" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100">25.4%</div>
+						<div class="progress-bar progress-bar-striped bg-warning p-2" role="progressbar" style="width: 25.4%" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
+
 					</div>
 
 					<div class="progress">
 						<p>PHP</p>
-						<div class="progress-bar progress-bar-striped bg-success p-2" role="progressbar" style="width: 19.4%" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100">19.4%</div>
+						<div class="progress-bar progress-bar-striped bg-success p-2 d-none d-sm-none d-md-block" role="progressbar" style="width: 19.4%" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100">19.4%</div>
+						<div class="progress-bar progress-bar-striped bg-success p-2" role="progressbar" style="width: 19.4%" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
 					</div>
 
 					<div class="progress">
 						<p>Twig</p>
-						<div class="progress-bar progress-bar-striped bg-danger p-2" role="progressbar" style="width: 10.06%" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100">10.06%</div>
+						<div class="progress-bar progress-bar-striped bg-danger p-2 d-none d-sm-none d-md-block" role="progressbar" style="width: 10.06%" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100">10.06%</div>
+						<div class="progress-bar progress-bar-striped bg-danger p-2 " role="progressbar" style="width: 10.06%" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
 					</div>
 
 					<div class="progress">
 						<p>Javascript</p>
-						<div class="progress-bar progress-bar-striped bg-info p-2" role="progressbar" style="width: 5.4%" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100">5.4%</div>
+						<div class="progress-bar progress-bar-striped bg-info p-2 d-none d-sm-none d-md-block" role="progressbar" style="width: 5.4%" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100">5.4%</div>
+						<div class="progress-bar progress-bar-striped bg-info p-2 d-none d-lg-block d-xl-block" role="progressbar" style="width: 5.4%" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
 					</div>
 				</div>
 			</div>
 			<div class="container">
 				<h5 class="mb-5">Voici les IDE utilisé durant mon années scolaire ainsi que que mon alternance </h5>
 				<div class="row">
-						<img class="shadow-lg p-3 mb-5 bg-body rounded mx-4" alt="100x100" src="./assets/img/logo/Notepad.png" data-holder-rendered="true" style="width: 10%;">	
-				
-						<img class="shadow-lg p-3 mb-5 bg-body rounded mx-4" alt="100x100" src="./assets/img/logo/Visual-Studio.png" data-holder-rendered="true" style="width: 10%;"> 	
+					<div class="col-12 col-sm-12 col-md-3 col-lg-3 col-xl-3">
+						<img class="img-ide img-fluid shadow-lg p-3 mb-5 bg-body rounded mx-4" alt="100x100" src="./assets/img/logo/Notepad.png" data-holder-rendered="true" style="width: 10%;">	
+					</div>
+					<div class="col-12 col-sm-12 col-md-3 col-lg-3 col-xl-3">
+						<img class="img-ide img-fluid shadow-lg p-3 mb-5 bg-body rounded mx-4" alt="100x100" src="./assets/img/logo/Visual-Studio.png" data-holder-rendered="true" style="width: 10%;"> 	
+					</div>
+					<div class="col-12 col-sm-12 col-md-3 col-lg-3 col-xl-3">
+						<img class="img-ide img-fluid shadow-lg p-3 mb-5 bg-body rounded mx-4" alt="100x100" src="./assets/img/logo/Visual_Studio_Code.png" data-holder-rendered="true" style="width: 10%;">	
+					</div>
+					<div class="col-12 col-sm-12 col-md-3 col-lg-3 col-xl-3 ">
+						<img class="img-ide img-fluid shadow-lg p-3 mb-5 bg-body rounded mx-4" alt="100x100" src="./assets/img/logo/PhpStorm_Icon.svg.png" data-holder-rendered="true" style="width: 10%;">	
+					</div>
 									
-						<img class="shadow-lg p-3 mb-5 bg-body rounded mx-4" alt="100x100" src="./assets/img/logo/Visual_Studio_Code.png" data-holder-rendered="true" style="width: 10%;">	
 
-						<img class="shadow-lg p-3 mb-5 bg-body rounded mx-4" alt="100x100" src="./assets/img/logo/PhpStorm_Icon.svg.png" data-holder-rendered="true" style="width: 10%;">	
 
 					</div>  
 				</div>
@@ -218,7 +231,6 @@
 						<div class="col-lg-12 d-flex justify-content-center">
 							<ul id="portfolio-flters">
 								<li data-filter="*" class="filter-active">Tout</li>
-								<li data-filter=".filter-app">Projet personnel </li>
 								<li data-filter=".filter-card">Projet encadré</li>
 								<li data-filter=".filter-pro-entre">Projet entreprise</li>
 								<li data-filter=".filter-web">PPE</li>
@@ -229,7 +241,7 @@
 					<div class="row portfolio-container" data-aos="fade-up" data-aos-delay="100">
 						<div class="col-lg-4 col-md-6 portfolio-item filter-web">
 							<div class="portfolio-wrap">
-								<img src="assets/img/projet_ppe2.png" class="img-fluid" alt="">
+								<img src="assets/img/PPE3.png" class="img-fluid" alt="">
 								<div class="portfolio-links">
 									<!-- <a href="assets/img/projet_ppe2.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="PPE2 : Php Orienté Objet"><i class="bx bx-plus"></i></a> -->
 									<a href="ppe2.php" title="More Details"><i class="bx bx-link"></i></a>
@@ -239,7 +251,7 @@
 
 						<div class="col-lg-4 col-md-6 portfolio-item filter-web">
 							<div class="portfolio-wrap">
-								<img src="assets/img/projet_form1.png" class="img-fluid" alt="">
+								<img src="assets/img/PPE4.png" class="img-fluid" alt="">
 								<div class="portfolio-links">
 									<!-- <a href="assets/img/projet_form1.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="PPE4 : Form Visual studio 2022"><i class="bx bx-plus"></i></a> -->
 									<a href="ppe4.php" title="More Details"><i class="bx bx-link"></i></a>
@@ -260,8 +272,8 @@
 							<div class="portfolio-wrap">
 								<img src="assets/img/taxi-driver.png" class="img-fluid w-100" alt=""> 
 								<div class="portfolio-links">
-									<a href="assets/img/taxi-driver.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Lien : https://www.taxidriver06.com/ "><i class="bx bx-plus"></i></a>
-									<a href="./assets/img/Epreuve E5 - PPro1.pdf" title="More Details"><i class="bx bx-link"></i></a>
+									<a href="assets/img/taxi-driver.png"  data-gallery="portfolioGallery" class="portfolio-lightbox" title="Lien : https://www.taxidriver06.com/ "><i class="bx bx-plus"></i></a>
+									<a href="./assets/img/Epreuve E5 - PPro1.pdf" target="_blank" title="More Details"><i class="bx bx-link"></i></a>
 								</div>
 							</div>
 						</div>
@@ -270,7 +282,7 @@
 								<img src="assets/img/visuality-pro.png" class="img-fluid w-100" alt=""> 
 								<div class="portfolio-links">
 									<a href="assets/img/visuality-pro.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Lien : https://www.visualityproduction.com/ "><i class="bx bx-plus"></i></a>
-									<a href="./assets/img/Epreuve E5 - PPro2.pdf" title="More Details"><i class="bx bx-link"></i></a>
+									<a href="./assets/img/Epreuve E5 - PPro2.pdf" target="_blank" title="More Details"><i class="bx bx-link"></i></a>
 								</div> 
 							</div>
 						</div>
@@ -279,7 +291,7 @@
 								<img src="assets/img/palme-or-properties.png" class="img-fluid w-100" alt=""> 
 								<div class="portfolio-links">
 									<a href="assets/img/palme-or-properties.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Lien : https://www.palmesdor-properties.com/ "><i class="bx bx-plus"></i></a>
-									<a href="./assets/img/Epreuve E5 - PPro3.pdf" title="More Details"><i class="bx bx-link"></i></a>
+									<a href="./assets/img/Epreuve E5 - PPro3.pdf" target="_blank" title="More Details"><i class="bx bx-link"></i></a>
 								</div> 
 							</div>
 						</div>
@@ -288,7 +300,7 @@
 								<img src="assets/img/test-voyantissime.png" class="img-fluid w-100" alt=""> 
 								<div class="portfolio-links">
 									<a href="assets/img/test-voyantissime.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Lien : https://www.voyantissime.com/ "><i class="bx bx-plus"></i></a>
-									<a href="./assets/img/Epreuve E5 - PPro4.pdf" title="More Details"><i class="bx bx-link"></i></a>
+									<a href="./assets/img/Epreuve E5 - PPro4.pdf" target="_blank" title="More Details"><i class="bx bx-link"></i></a>
 								</div>  
 							</div>
 						</div>
@@ -297,7 +309,7 @@
 								<img src="assets/img/katleen-voyance.png" class="img-fluid w-100" alt=""> 
 								<div class="portfolio-links">
 									<a href="assets/img/katleen-voyance.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Lien : https://www.katleen-voyance.com/"><i class="bx bx-plus"></i></a>
-									<a href="./assets/img/Epreuve E5 - PPro5.pdf" title="More Details"><i class="bx bx-link"></i></a>
+									<a href="./assets/img/Epreuve E5 - PPro5.pdf" target="_blank" title="More Details"><i class="bx bx-link"></i></a>
 								</div>  
 							</div>
 						</div>
@@ -316,9 +328,9 @@
 					<div data-aos="fade-up">
 						<h3 class="text-center">La sortie de Bootstrap 5 </h3>
 						<p>
-							<ul>
+							<!-- <ul>
 								<li>Sortie <strong>Le 6 mai 2021</strong></li>
-							</ul>
+							</ul> -->
 							Après plus de <b>trois ans</b> de développement,<b> Bootstrap 5</b> est officiellement disponible. 
 							Il <b>rompt</b> effectivement les liens avec la <b>bibliothèque jQuery pour du pur JavaScript.</b>
 							Les autres nouveautés de cette version incluent un <b>nouveau logo, un nouveau composant offcanvas, nouveau composant accordion,

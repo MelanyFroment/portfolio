@@ -392,7 +392,7 @@ section {
 }
 .skills .progress-bar {
   width: 1px;
-  height: 10px;
+  height: auto;
   transition: 0.9s;
   background-color: #149ddd;
 }
@@ -1127,4 +1127,18 @@ iframe.carte{
 }
 .portfolio .portfolio-wrap .portfolio-links a + a {
   border-left: 1px solid #b92456;
+}
+
+
+
+/*Par moi */
+h5{
+  font-size: 1rem;
+}
+
+@media(max-width:2560px){
+  .img-ide{
+    width: 100%!important;
+    margin-left: 0!important;
+  }
 }

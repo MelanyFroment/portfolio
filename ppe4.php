@@ -81,7 +81,14 @@
                         <p class="mt-3 p-2">
                             Projet créé en Csharp<br/> 
                             Formulaire de connexion sécurisé, avec un formulaire remplissage de ticket, et l'affichage de ces tickets.
-                            
+                            <br/>
+                            Ce projet à pour but : 
+                            <ul>
+                                <li>Se connecter au logiciel à l'aide d'un Login et un Mot de passe.</li>
+                                <li>Avoir une interface avec l'accès au formulaire de saisi ainsi que l'accès au tableau d'information</li>
+                                <li>Un formulaire pour rentrer les informations de frais</li>
+                                <li>Un tableau avec toutes les précédentes informations données</li>
+                            </ul>                       
                         </p>
                     </div>
                 </div>
@@ -91,9 +98,9 @@
                     </div>
                     <div class="col-sm-4 text-center"> 
                         <a href="./assets/css/M_Forment_GSBADF_Bin.zip" class="btn btn-primary btn-sm text-uppercase w-100" target="_blank">Télécharger le zip (Bin)</a>
-                    </div>
+                    </div> 
                     <div class="col-sm-4 text-center"> 
-                        <a href="./assets/css/Epreuve E5 PPE4 - BTS SIO 2022_Fiche_Slam.pdf" class="btn btn-primary btn-sm text-uppercase w-100" target="_blank">fiche Synoptique</a>
+                        <a href="./assets/img/Epreuve E5 PPE4 - BTS SIO 2022_Fiche_Slam.pdf" class="btn btn-primary btn-sm text-uppercase w-100" target="_blank">fiche Synoptique</a>
                     </div>
                     <!-- <div class="col-sm-4 text-center"> 
                         <a href="" class="btn btn-primary btn-sm text-uppercase w-100" target="_blank">Lien du site PPE3</a>
